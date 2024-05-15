@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Hello%20World&fontSize=90)
-
-## 🛠 Tools 🛠
+<h3>🛠 Tools 🛠</h3>
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
