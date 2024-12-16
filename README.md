@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/supabase-20232a?style=for-the-badge&logo=supabase&logoColor=3fcf8e" />
 </p>
 
-
+<br/>
 <br/>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=labmicegames)](https://solved.ac/labmicegames)
